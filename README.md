@@ -1,1 +1,1 @@
-# -target-sinobit-classic-gcc-nosd
+# target-sinobit-classic-gcc-nosd
